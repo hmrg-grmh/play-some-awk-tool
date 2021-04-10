@@ -19,6 +19,6 @@ END{
 # shell usage e.g. :
 # awk '{print"\" "$0" \" +"}BEGIN{print"=\"\" +"}END{print" \"\" "}' <<EOF
 
-### java or c# or any
-### if some lang can just use + to let string newline
+### java or c# or any some lang ,
+### if can just use + to let string newline
 ### this tool may have help .
